@@ -11,11 +11,11 @@ function walkToPark(dogName,dogBreed){
 }
 
 function throwFrisbee(dogName,dogBreed){
-	return(`Throw frisbee to ${dogName} the ${dogBreed}`);
+	return(`Throw ${dogName} the ${dogBreed}`);
 }
 
 function walkHome(dogName,dogBreed){
-	return(`Walk ${dogName} the ${dogBreed} to home`);
+	return(`Walk ${dogName} the ${dogBreed}`);
 }
 
 function unleashDog(dogName,dogBreed){
